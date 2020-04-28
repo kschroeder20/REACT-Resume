@@ -1,59 +1,59 @@
 let project_list = [
-	{
-		image:
-			'https://drive.google.com/uc?id=1ZFbiXqnep2HGVEVIA8c-UQ-rR5NwYb9u',
-		title: 'Online Clothing Store',
-		des:
-			"Full Stack Project using ReactJS and FIREBASE Development of new highly-responsive, web-based user interface Online payment implementation with stripe State Managment using Redux",
-		tags: [ 'HTML', 'CSS', 'React', 'Redux','Firebase', 'JavaScript' ],
-		links: {
-			launch: 'https://online-clothing-store.herokuapp.com/',
-			github: 'https://github.com/faizhameed/clothing_store'
-		}
-	},
-	{
-		image:
-			'https://drive.google.com/uc?id=1qci96UHTlpmqZjRh16N8epehxv77shwm',
-		title: 'Face Recognition Web App',
-		des:
-			"Full Stack Project using ReactJS and ExpressJS (NodeJS) Development of new highly-responsive, web-based user interface. Application detects faces in any image ",
-		tags: [ 'HTML', 'CSS', 'Javascript','nodejs','ReactJs' ],
-		links: {
-			launch: 'https://smart-brain6.herokuapp.com/',
-			github: 'https://www.github.com/Dhaval1403/React-Portfolio-Template'
-		}
-	},
 	{  /* -------------------------------- */
 		image:
-			'https://drive.google.com/uc?id=1qUyEAIyxV0W9jdoz79j2xU_WNcUnts2U',
-		title: 'Email Chip',
+			'https://www.chooseatl.com/assets/chooseatl_open_graph_image_azN9LPP.jpg',
+		title: 'ChooseATL',
 		des:
-			"A very simple react application representing the email chip function adding and removing chips when sending emails",
-		tags: [ 'CSS', 'React', 'JavaScript' ],
+			"Lead the back-end development for ChooseATL including CMS built on Ruby on Rails and the PostgreSQL database architectue",
+		tags: ['Ruby on Rails', 'JavaScript', 'PostgreSQL', 'APIs', 'JQuery'],
 		links: {
-			launch: 'https://faizhameed.github.io/emailChips/',
-			github: 'https://github.com/faizhameed/forCollabera'
+			launch: 'https://www.chooseatl.com/',
+			github: 'https://www.chooseatl.com/'
 		}
 	},
 	{/* -------------------------------- */
 		image:
-			'https://drive.google.com/uc?id=1pDgejtRSOpR8I8yUidbNNtyK-qbJDtpI',
-		title: 'Landing Page',
+			require('../assets/projects/social-aggregator.png'),
+		title: 'Social Aggregator Tool',
 		des:
-			"Landing Page developed for Corefactors bangalore. Customer Relationship Management Service offered to help business manage their customers",
-		tags: [ 'HTML', 'CSS', 'JavaScript', 'JQuery' ],
+			"The tool pulls Instagram and Twitter posts based on a hashtag that the user inputs on the backend. This tool was built without using Facebook's API (ask me about it)!",
+		tags: ['Ruby on Rails', 'JavaScript', 'JQuery', 'APIs'],
 		links: {
-			launch: 'https://faizhameed.github.io/landing-page2/.',
-			github: 'https://github.com/faizhameed/landing-page2'
+			launch: 'https://social-aggregator-tool.neboagency.com/',
+			github: 'https://social-aggregator-tool.neboagency.com/'
+		}
+	},
+	{
+		image:
+			'https://user-images.githubusercontent.com/47259793/62397549-3d28d300-b544-11e9-98ff-f48ebba7dfd2.gif',
+		title: 'Pet Health Tracker',
+		des:
+			"Full-stack MERN application (with additional functionality using Ruby) that allows users to login, store their pets' health information, and export the informaton as a pdf",
+		tags: ['HTML', 'CSS', 'React', 'Node.js', 'Ruby', 'MongoDB', 'JavaScript', 'Firebase' ],
+		links: {
+			launch: 'https://github.com/kschroeder20/healthy-pets',
+			github: 'https://github.com/kschroeder20/healthy-pets'
+		}
+	},
+	{
+		image:
+			require('../assets/projects/cms-dash.jpg'),
+		title: 'PHP CMS',
+		des:
+			"Full-stack project creating a fully functional CMS using PHP",
+		tags: [ 'HTML', 'CSS', 'Javascript','PHP','Bootstrap' ],
+		links: {
+			launch: 'https://github.com/kschroeder20/php-cms',
+			github: 'https://github.com/kschroeder20/php-cms'
 		}
 	},
 	{/* -------------------------------- */
 		image:
-			'https://drive.google.com/uc?id=1CBW3KdvYrrCW7chC1o6EWlRm7IvnHz1h',
-		title: 'Robot Search App',
+			require('../assets/projects/Remeber-the-Logo.png'),
+		title: 'NBA Logo Memory-Game',
 		des:
-			"A simple search application with ReactJS. Fetching Api from JSON placeholder to develop a set of robot cards where user can search names",
-		tags: [ 'React', 'HTML', 'CSS', 'JavaScript' ],
+			"React-based web application that tests a user's memory based on their past behavior",
+		tags: ['React', 'Bootstrap', 'JavaScript' ],
 		links: {
 			launch: 'https://faizhameed.github.io/robotapp/',
 			github: 'https://github.com/faizhameed/robotapp'
@@ -61,14 +61,14 @@ let project_list = [
 	},
 	{/* -------------------------------- */
 		image:
-			'https://drive.google.com/uc?id=1DXb4hG4d3MDNJA0iBclYGC4JJJU53xzw',
-		title: 'JavaScript Clock',
+			require('../assets/projects/Google-Book-Search.png'),
+		title: 'Google Book Search',
 		des:
-			"Javascript Clock is an application built with VanillaJS , where local time is fetched and shown in a clock. It has hour, minute and second hands",
-		tags: ['HTML', 'CSS', 'JavaScript' ],
+			"Full-Stack MERN application that allows users to search for and save their favorite books",
+		tags: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB' ],
 		links: {
-			launch: 'https://faizhameed.github.io/JavascriptClock/',
-			github: 'https://github.com/faizhameed/JavascriptClock'
+			launch: 'https://github.com/kschroeder20/Google-Book-Search',
+			github: 'https://github.com/kschroeder20/Google-Book-Search'
 		}
 	}
 ];

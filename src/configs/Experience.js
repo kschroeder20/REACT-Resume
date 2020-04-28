@@ -1,51 +1,34 @@
-import corefactors from "../assets/experience/corefactors.jpg";
 export const exp = [
   {
-    title: "UI ENGINEER",
-    date: "COREFACTORS , BANGALORE -JUNE 2019 - PRESENT",
+    title: "Backend Engineer",
+    date: "Atlanta, GA - September 2019 - Present",
     desc: [
-      "Developing new user-facing features using React.js",
-      "Built and Maintain websites",
+      "Primary tech stack: Ruby, Ruby on Rails, PHP and Javascript",
+      "Responsible for architecting, implementing, and maintaining web application logic for a variety of client projects",
       "Design as per given UX.",
-      "Translating designs and wireframes into high quality code",
-      "Apply best practices and modern technologies",
-      "Collaborate with team in designing and implementing new UI",
-      "CI/CD deployments using Jenkins",
-      "Unit Test using jest"
+      "Participates in all aspects of project execution including, but not limited to, tactical planning, programming, DevOps, QA, and client communication",
+      "Works closely with project managers to ensure accurate project estimates and smooth client interactions",
+      "Testing with RSpec and refactoring with RuboCop"
     ],
-    img: corefactors
+    img: 'https://pbs.twimg.com/profile_images/754001737653096448/KvNCi3jw_400x400.jpg'
   },
   {
-    title: "WEB DEVELOPER - FREELANCE",
-    date: "JUNE 2017 - PRESENT",
+    title: "Georgia Tech Full-Stack Development Bootcamp",
+    date: "Atlanta, GA - Febuary 2019 - August 2019",
     desc: [
-      "Built maintained website for social community",
-      "Fixing errors and developing features in open source",
-      "Ensured site adhered to brand guidlines",
-      "Optimizing components for maximum performance"
+      "Work independently or with groups on complex projects throughout the entire development lifecycle",
+      "Tech Stack: MongoDB, Express, ReactJS, Node.js, Javascript, JQuery, CSS, SQL",
     ],
-    img:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    img: 'https://i.pinimg.com/originals/f4/dd/6f/f4dd6f357fd6810e57ed27e86f3b854c.jpg'
   },
   {
-    title: "PRODUCTION AND QUALITY ENGINEER",
-    date: "AL QAHTANI PIPE COATING CO.LTD , DAMMAM KSA- OCT 2016 - MAY 2019",
+    title: "Paid Media Analyst",
+    date: "Atlanta, GA - October 2018 - September 2019",
     desc: [
-      "Item coated and welded with utmost efficiency",
-      "Quality lead meetings with workforce and labors",
-      "Assigning duties Ensured safety and minimized hazards"
+      "Managed and assisted in building the agency's first every SQL database that aggregated marketing data across 10+ platforms",
+      "Lead reporting and analysis for 2 clients using Google AdWords, Google Analytics, Adobe Analytics, Facebook Business Manager, and Tableau Desktop",
+      "Participated in client-facing meetings and organizational strategy"
     ],
-    img:
-      "https://images.unsplash.com/photo-1533750088811-7a8b16218df7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
-  },
-  {
-    title: "SALES ENGINEER",
-    date: "VOLTAS INDIA CO.LTD , COCHIN - JUNE 2015- MAY 2016",
-    desc: [
-      "Oversaw contracts with clients, contractors and suppliers",
-      " Prepared HVAC BOQ"
-    ],
-    img:
-      "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    img: 'https://pbs.twimg.com/profile_images/754001737653096448/KvNCi3jw_400x400.jpg'
   }
 ];
