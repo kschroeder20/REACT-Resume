@@ -4,7 +4,8 @@ import AboutMe from "./components/AboutMe/AboutMe";
 import ProjectCardList from "./components/ProjectCardList/ProjectCardList";
 import Experience from "./components/Experience/Experience";
 import Skill from "./components/Skill/Skill";
-import ContactForm from "./components/Contact/Contact";
+// import ContactForm from "./components/Contact/Contact";
+import Contact from "./components/Contact/ContactInfo"
 import "./App.css";
 import Section from "./components/Section/Section.component";
 
@@ -26,7 +27,7 @@ class App extends Component {
           <Skill />
         </Section>
         <Section>
-          <ContactForm />
+          <Contact />
         </Section>
       </React.Fragment>
     );

@@ -5,10 +5,10 @@ let project_list = [
 		title: 'ChooseATL',
 		des:
 			"Lead the back-end development for ChooseATL including CMS built on Ruby on Rails and the PostgreSQL database architectue",
-		tags: ['Ruby on Rails', 'JavaScript', 'PostgreSQL', 'APIs', 'JQuery'],
+		tags: ['Ruby on Rails', 'JavaScript', 'APIs', 'PostgreSQL', 'JQuery'],
 		links: {
 			launch: 'https://www.chooseatl.com/',
-			github: 'https://www.chooseatl.com/'
+			github: 'none'
 		}
 	},
 	{/* -------------------------------- */
@@ -20,31 +20,7 @@ let project_list = [
 		tags: ['Ruby on Rails', 'JavaScript', 'JQuery', 'APIs'],
 		links: {
 			launch: 'https://social-aggregator-tool.neboagency.com/',
-			github: 'https://social-aggregator-tool.neboagency.com/'
-		}
-	},
-	{
-		image:
-			'https://user-images.githubusercontent.com/47259793/62397549-3d28d300-b544-11e9-98ff-f48ebba7dfd2.gif',
-		title: 'Pet Health Tracker',
-		des:
-			"Full-stack MERN application (with additional functionality using Ruby) that allows users to login, store their pets' health information, and export the informaton as a pdf",
-		tags: ['HTML', 'CSS', 'React', 'Node.js', 'Ruby', 'MongoDB', 'JavaScript', 'Firebase' ],
-		links: {
-			launch: 'https://github.com/kschroeder20/healthy-pets',
-			github: 'https://github.com/kschroeder20/healthy-pets'
-		}
-	},
-	{
-		image:
-			require('../assets/projects/cms-dash.jpg'),
-		title: 'PHP CMS',
-		des:
-			"Full-stack project creating a fully functional CMS using PHP",
-		tags: [ 'HTML', 'CSS', 'Javascript','PHP','Bootstrap' ],
-		links: {
-			launch: 'https://github.com/kschroeder20/php-cms',
-			github: 'https://github.com/kschroeder20/php-cms'
+			github: 'none'
 		}
 	},
 	{/* -------------------------------- */
@@ -53,10 +29,10 @@ let project_list = [
 		title: 'NBA Logo Memory-Game',
 		des:
 			"React-based web application that tests a user's memory based on their past behavior",
-		tags: ['React', 'Bootstrap', 'JavaScript' ],
+		tags: ['React', 'Bootstrap', 'JavaScript'],
 		links: {
-			launch: 'https://faizhameed.github.io/robotapp/',
-			github: 'https://github.com/faizhameed/robotapp'
+			launch: 'https://nba-logo-memory-game.herokuapp.com/',
+			github: 'https://github.com/kschroeder20/Memory-Game'
 		}
 	},
 	{/* -------------------------------- */
@@ -64,11 +40,59 @@ let project_list = [
 			require('../assets/projects/Google-Book-Search.png'),
 		title: 'Google Book Search',
 		des:
-			"Full-Stack MERN application that allows users to search for and save their favorite books",
-		tags: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB' ],
+			"Full stack MERN application that allows users to search for and save their favorite books",
+		tags: ['JavaScript', 'React', 'Node.js', 'Express', 'MongoDB'],
 		links: {
-			launch: 'https://github.com/kschroeder20/Google-Book-Search',
+			launch: 'https://google-book-search-20.herokuapp.com/',
 			github: 'https://github.com/kschroeder20/Google-Book-Search'
+		}
+	},
+	{/* -------------------------------- */
+		image:
+			require('../assets/projects/cms-dash.jpg'),
+		title: 'PHP CMS - OOP Programming',
+		des:
+			"Full stack project creating a fully functional CMS using PHP and a OOP architecture",
+		tags: ['PHP', 'Javascript','Bootstrap' ],
+		links: {
+			launch: 'https://php-cms-oop.herokuapp.com/',
+			github: 'https://github.com/kschroeder20/php-cms'
+		}
+	},
+	{/* -------------------------------- */
+		image:
+			require('../assets/projects/Twitter-Clone.jpeg'),
+		title: 'Ruby on Rails Twitter Clone',
+		des:
+			"Full stack Twitter clone complete with authentication",
+		tags: ['Ruby', 'Ruby on Rails', 'PosgreSQL'],
+		links: {
+			launch: 'none',
+			github: 'https://github.com/kschroeder20/Ruby-on-Rails-Twitter-Clone'
+		}
+	},
+	{/* -------------------------------- */
+		image:
+			'https://cdn.nba.net/nba-drupal-prod/styles/landscape/s3/2017-07/NBA%20Secondary%20Logo.jpg?itok=PWVwiQu7',
+		title: 'Nerd Sports',
+		des:
+			"Command-line Python applicatoin that pulls the previous night's NBA scores into a nicely formatted table. For coders who love the NBA, but are too busy hacking away at their jobs to check espn.com.",
+		tags: ['Python'],
+		links: {
+			launch: 'none',
+			github: 'https://github.com/kschroeder20/nerd-sports'
+		}
+	},
+	{/* -------------------------------- */
+		image:
+			require('../assets/projects/ruby_on_rails_blog.jpeg'),
+		title: 'Ruby on Rails Blog',
+		des:
+			"Full stack blog application build on Ruby on Rails with authentication",
+		tags: ['Ruby', 'Ruby on Rails', 'PosgreSQL'],
+		links: {
+			launch: 'none',
+			github: 'https://github.com/kschroeder20/ruby_on_rails_blog'
 		}
 	}
 ];

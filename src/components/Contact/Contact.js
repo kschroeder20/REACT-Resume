@@ -55,7 +55,7 @@ export default function ContactForm() {
           fontFamily: '"Bungee", cursive'
         }}
       >
-        <Element name="contact-me">Contact Me</Element>
+        {/* <Element name="contact-me">Contact Me</Element> */}
       </Typography>
       <div
         style={{

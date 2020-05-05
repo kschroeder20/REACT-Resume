@@ -124,7 +124,7 @@ var scroller = Scroll.scroller;
 				Skill
 			</TabPanel>
 			<TabPanel value={value} index={4}>
-
+				Contact Me
 			</TabPanel>
 		</div>
 	);

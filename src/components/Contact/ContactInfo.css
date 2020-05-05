@@ -1,0 +1,66 @@
+.gridItemLinkedIn .linkedInLogo {
+    text-align: right;
+}
+
+.gridItemLinkedIn .linkedInLogo {
+    font-size: 100px;
+}
+
+.gridItemInfo {
+    text-align: left;
+}
+
+.email {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.phone {
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    .gridItemLinkedIn {
+        text-align: center;
+        padding: 0px;
+        margin-right: 50%;
+    }
+
+    .gridItemLinkedIn .linkedInLogo {
+        font-size: 100px;
+        text-align: center;
+    }
+
+    .gridItemInfo {
+        text-align: center;
+    }
+
+    .email {
+        font-size: 25px;
+        margin-top: 25px;
+        margin-bottom: 0px;
+    }
+
+    .phone {
+        font-size: 25px;
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+
+    .email {
+        font-size: 15px;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        padding: 0px;
+    }
+
+    .phone {
+        font-size: 15px;
+        margin-top: 0px;
+        padding: 0px;
+    }
+}

@@ -102,20 +102,22 @@ export default function ProjectCard({ project }) {
           {modalOpen ? (
             <InfoModal project={project} handleClose={handleClose} /> // Modal
           ) : null}
+          {project.links.launch !== 'none' ? (
           <IconButton
             title="Launch App"
             aria-label="Launch Application"
             href={project.links.launch}
-          >
+            >
             <Launch />
-          </IconButton>
-          <IconButton
+            </IconButton>) : ''}
+          {project.links.github !== 'none' ? (
+            <IconButton
             title="See Code"
             aria-label="Source Code On Github"
             href={project.links.github}
           >
             <GitHub />
-          </IconButton>
+          </IconButton>) : ''}
         </CardActions>
       </Card>
     </Grid>

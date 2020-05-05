@@ -1,6 +1,6 @@
 export const exp = [
   {
-    title: "Backend Engineer",
+    title: "Backend Engineer at Nebo Agency",
     date: "Atlanta, GA - September 2019 - Present",
     desc: [
       "Primary tech stack: Ruby, Ruby on Rails, PHP and Javascript",
@@ -13,7 +13,7 @@ export const exp = [
     img: 'https://pbs.twimg.com/profile_images/754001737653096448/KvNCi3jw_400x400.jpg'
   },
   {
-    title: "Georgia Tech Full-Stack Development Bootcamp",
+    title: "Georgia Tech Full Stack Development Bootcamp",
     date: "Atlanta, GA - Febuary 2019 - August 2019",
     desc: [
       "Work independently or with groups on complex projects throughout the entire development lifecycle",
@@ -22,7 +22,7 @@ export const exp = [
     img: 'https://i.pinimg.com/originals/f4/dd/6f/f4dd6f357fd6810e57ed27e86f3b854c.jpg'
   },
   {
-    title: "Paid Media Analyst",
+    title: "Paid Media Analyst at Nebo Agency",
     date: "Atlanta, GA - October 2018 - September 2019",
     desc: [
       "Managed and assisted in building the agency's first every SQL database that aggregated marketing data across 10+ platforms",
@@ -30,5 +30,33 @@ export const exp = [
       "Participated in client-facing meetings and organizational strategy"
     ],
     img: 'https://pbs.twimg.com/profile_images/754001737653096448/KvNCi3jw_400x400.jpg'
+  },
+  {
+    title: "The Complete Ruby on Rails Developer Course",
+    date: "Udemy Online Learning",
+    desc: [
+      "Learned how to rapidly prototype ideas and turn them into presentable apps",
+      "Gained in-depth knowledge of the Ruby on Rails framework including the MVC model, routing, associations, and testing",
+      "Built full-stack Ruby on Rails applications "
+    ],
+    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
+  },
+    {
+    title: "PHP OOP: Object Oriented Programming",
+    date: "Udemy Online Learning",
+    desc: [
+      "Learned how to make full-stack PHP application with an OOP framework",
+        "Gained an advanced knowledge of PHP"
+      ],
+    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
+  },
+  {
+    title: "React - The Complete Guide",
+    date: "Udemy Online Learning",
+    desc: [
+      "Built powerful, fast, user-friendly and reactive web apps using the REACT framework",
+      "Learned about and used hooks, Redux, and testing"
+    ],
+    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
   }
 ];

@@ -24,10 +24,8 @@ const AboutMe = () => {
         <img src={headshot} alt="profile_photo" className="img" />
         <h1>Kevin Schroeder</h1>
         <div className="subtitle">
-          <h3>I am a Full Stack Software Engineer</h3>
-          <p>
-            I specialize in doing cool things and learning every day
-          </p>
+          <h3>Full Stack Software Engineer</h3>
+          <p>REACT || Ruby on Rails || JavaScript || PHP</p>
         </div>
       </div>
     </React.Fragment>

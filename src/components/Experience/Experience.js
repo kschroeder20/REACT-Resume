@@ -17,7 +17,7 @@ function Experience() {
         display="block"
         align="center"
       >
-        <Element name="experience">Work Experience</Element>
+        <Element name="experience">Work Experience/Eduction</Element>
       </Typography>
 
       <div className={classes.expContainer}>
