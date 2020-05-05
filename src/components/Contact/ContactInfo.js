@@ -30,7 +30,7 @@ export default function CenteredGrid() {
                     fontFamily: '"Bungee", cursive'
                 }}
             >
-                <Element name="contact-me">Contact Me</Element>
+                <Element name="contact-me"></Element>
             </Typography>
             <Grid container spacing={3}>
                 <Grid item xs={12} sm={2} className="gridItemLinkedIn" >
