@@ -1,6 +1,4 @@
-# React Portfolio Template
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployed Portfolio Here[https://kschroeder20.github.io/REACT-Resume/] 
 
 ## Available Scripts
 
