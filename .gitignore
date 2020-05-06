@@ -4,9 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-node_modules/gh-pages
-
-build/
+node_modules
 
 # testing
 /coverage

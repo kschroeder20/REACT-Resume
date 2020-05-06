@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/REACT-Resume/static/css/main.7774f325.chunk.css",
+    "main.js": "/REACT-Resume/static/js/main.f709028b.chunk.js",
+    "main.js.map": "/REACT-Resume/static/js/main.f709028b.chunk.js.map",
+    "runtime-main.js": "/REACT-Resume/static/js/runtime-main.76a39aab.js",
+    "runtime-main.js.map": "/REACT-Resume/static/js/runtime-main.76a39aab.js.map",
+    "static/js/2.9e555fd4.chunk.js": "/REACT-Resume/static/js/2.9e555fd4.chunk.js",
+    "static/js/2.9e555fd4.chunk.js.map": "/REACT-Resume/static/js/2.9e555fd4.chunk.js.map",
+    "index.html": "/REACT-Resume/index.html",
+    "precache-manifest.6de96beecf435cb567a17eca15a9f0b2.js": "/REACT-Resume/precache-manifest.6de96beecf435cb567a17eca15a9f0b2.js",
+    "service-worker.js": "/REACT-Resume/service-worker.js",
+    "static/css/main.7774f325.chunk.css.map": "/REACT-Resume/static/css/main.7774f325.chunk.css.map",
+    "static/js/2.9e555fd4.chunk.js.LICENSE": "/REACT-Resume/static/js/2.9e555fd4.chunk.js.LICENSE",
+    "static/media/Google-Book-Search.png": "/REACT-Resume/static/media/Google-Book-Search.54294daa.png",
+    "static/media/Remeber-the-Logo.png": "/REACT-Resume/static/media/Remeber-the-Logo.39231350.png",
+    "static/media/Twitter-Clone.jpeg": "/REACT-Resume/static/media/Twitter-Clone.63c1489b.jpeg",
+    "static/media/cms-dash.jpg": "/REACT-Resume/static/media/cms-dash.a62a038f.jpg",
+    "static/media/headshot.jpg": "/REACT-Resume/static/media/headshot.601f0c7d.jpg",
+    "static/media/ruby_on_rails_blog.jpeg": "/REACT-Resume/static/media/ruby_on_rails_blog.4d1bf884.jpeg",
+    "static/media/social-aggregator.png": "/REACT-Resume/static/media/social-aggregator.206c7459.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76a39aab.js",
+    "static/js/2.9e555fd4.chunk.js",
+    "static/css/main.7774f325.chunk.css",
+    "static/js/main.f709028b.chunk.js"
+  ]
+}
