@@ -4,7 +4,7 @@ let project_list = [
 			'https://www.chooseatl.com/assets/chooseatl_open_graph_image_azN9LPP.jpg',
 		title: 'ChooseATL',
 		des:
-			"Lead the back-end development for ChooseATL including CMS built on Ruby on Rails and the PostgreSQL database architectue",
+			"Led the back-end development for ChooseATL, including CMS built on Ruby on Rails and the PostgreSQL database architecture",
 		tags: ['Ruby on Rails', 'JavaScript', 'APIs', 'PostgreSQL', 'JQuery'],
 		links: {
 			launch: 'https://www.chooseatl.com/',
