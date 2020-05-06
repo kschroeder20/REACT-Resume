@@ -1,4 +1,4 @@
-Deployed Portfolio Here[https://kschroeder20.github.io/REACT-Resume/] 
+Deployed Portfolio [Here](https://kschroeder20.github.io/REACT-Resume/)
 
 ## Available Scripts
 
