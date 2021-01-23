@@ -39,7 +39,7 @@ export const exp = [
       "Gained in-depth knowledge of the Ruby on Rails framework including the MVC model, routing, associations, and testing",
       "Built full-stack Ruby on Rails applications "
     ],
-    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
+    img: 'https://www.pipelinersales.com/wp-content/uploads/2019/06/large-udemy.jpg'
   },
     {
     title: "PHP OOP: Object Oriented Programming",
@@ -48,7 +48,7 @@ export const exp = [
       "Learned how to make full-stack PHP application with an OOP framework",
         "Gained an advanced knowledge of PHP"
       ],
-    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
+    img: 'https://www.pipelinersales.com/wp-content/uploads/2019/06/large-udemy.jpg'
   },
   {
     title: "React - The Complete Guide",
@@ -57,6 +57,6 @@ export const exp = [
       "Built powerful, fast, user-friendly and reactive web apps using the REACT framework",
       "Learned about and used hooks, Redux, and testing"
     ],
-    img: 'https://pbs.twimg.com/profile_images/1145698421107392513/1ocHxLkr.png'
+    img: 'https://www.pipelinersales.com/wp-content/uploads/2019/06/large-udemy.jpg'
   }
 ];
